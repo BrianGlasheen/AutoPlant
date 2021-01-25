@@ -1,0 +1,12 @@
+imports for IO
+|
+
+programing settings variables
+|
+
+while user running autoplant
+    check current time vs previous time
+    
+    water plant if soil moisture and time conditions are met
+
+    save current time
